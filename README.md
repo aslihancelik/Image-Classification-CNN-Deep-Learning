@@ -13,7 +13,7 @@ Input: ImagePreprocessing.py is for creating different datasets in
        corresponding labels are provided in "datasets" folder.The 
        different datasets created via the ImagePreprocessing.py program
        are the input for the 3CNN.py program. Images in 
-       "outlier" file are used for Outlier Test via outlier.py .
+       "outlier/bird" file are used for Outlier Test via outlier.py .
 
 Output: 4 different models trained on 4 different input datasets can 
 	be found in "models" folder.
